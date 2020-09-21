@@ -1,0 +1,19 @@
+{
+    "presets": [
+      ["@babel/preset-env", {
+        "targets": {
+          "esmodules": true
+        }
+      }],
+      "@babel/preset-react",
+      "@emotion/babel-preset-css-prop"
+    ],
+    "plugins": [
+      [
+        "@babel/plugin-proposal-class-properties",
+        {
+          "loose": true
+        }
+      ]
+    ]
+  }

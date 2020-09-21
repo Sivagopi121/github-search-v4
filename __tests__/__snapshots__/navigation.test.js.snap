@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error renders correctly 1`] = `
+<div
+  className="css-19wvdzc-NavButtonsContainer es2a6wv0"
+>
+  <div
+    className="css-1fjgb5z-NavigationLink es2a6wv1"
+  >
+    <a
+      href="/profile"
+      onClick={[Function]}
+    >
+      Profile
+    </a>
+  </div>
+  <div
+    className="css-1fjgb5z-NavigationLink es2a6wv1"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Organization
+    </a>
+  </div>
+  <div
+    className="css-1tgob8f-NavigationSearch es2a6wv2"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        className="Input Input_white"
+        onChange={[Function]}
+        type="text"
+      />
+       
+      <button
+        className="undefined Button Button_white"
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+  </div>
+</div>
+`;

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error renders correctly 1`] = `
+<div
+  className="css-1dhx6mc-ErrorContainer e1lis3cs0"
+>
+  <small>
+    Some error
+  </small>
+</div>
+`;
+
+exports[`FetchMore renders correctly 1`] = `
+<div
+  className="css-wn5agb-FetchMoreContainer e5zzf080"
+/>
+`;
+
+exports[`Input renders correctly 1`] = `
+<input
+  className="Input Input_black"
+/>
+`;
+
+exports[`Loading renders correctly 1`] = `
+<div
+  className="Loading"
+>
+  <small>
+    Loading
+     
+  </small>
+</div>
+`;
